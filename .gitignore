@@ -1,0 +1,41 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Datos crudos (>200 MB, no aptos para repo)
+data/raw/
+
+# Caché Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Metadatos de Windows al copiar archivos a WSL
+*:Zone.Identifier
+
+# IDE y editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Variables de entorno
+.env
+.env.local
+
+# Distribución
+dist/
+build/
+*.egg-info/
