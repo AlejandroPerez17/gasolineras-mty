@@ -2,7 +2,9 @@
 
 > Análisis exploratorio de 620 estaciones de servicio en la Zona Metropolitana de Monterrey que identifica un subgrupo de 12 estaciones cobrando Magna consistentemente por encima del precio coordinado del mercado, con un sobreprecio anual de hasta $2,600 al consumidor desinformado.
 
-**Dashboard interactivo:** [Looker Studio →](https://datastudio.google.com/reporting/2b5fd265-e451-47b2-9f8a-a9f88f0fe674)
+**Dashboard construido en Google Looker Studio:**
+
+![Dashboard Looker Studio](data/processed/dashboard_lookerstudio.jpg)
 
 ![Concentración geográfica del sobreprecio](data/processed/fig03_mapa_geografico.png)
 
